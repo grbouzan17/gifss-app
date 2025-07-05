@@ -1,6 +1,6 @@
 # GifsApp
 
-Este un proyecto de Angular.
+Esto es un proyecto de Angular.
 
 # Dev
 
